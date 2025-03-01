@@ -48,8 +48,10 @@ Two solutions were considered:
 - **Ms. Amira Mohamed**  
 - **Ms. Alaa Amin**  
 - **Mr. Mahmoud Ashraf**  
-- **Mr. Ammar Yasser**  
+- **Mr. Ammar Yasser**
+- 
 https://github.com/AlaaAmin552/Key-Components-Traceability-System/blob/f955616e5bc63c0c5416b7b9ac4c0a61dc9af3aa/photo_2025-03-01_21-30-05.jpg
+
 ---
 
 ![Project Diagram](T-image.png)  
